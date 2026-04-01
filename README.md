@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me<br><br>🎓 Currently pursuing my studies with a focus on Data Science & Analytics<br>📊 Passionate about uncovering patterns in data and telling stories through visualizations<br>🌱 Continuously learning and building projects in Python, SQL, and BI tools<br>🎯 Looking to contribute to data-driven projects and grow as an analyst
+🎓 Currently pursuing my studies with a focus on Data Science & Analytics<br>📊 Passionate about uncovering patterns in data and telling stories through visualizations<br>🌱 Continuously learning and building projects in Python, SQL, and BI tools<br>🎯 Looking to contribute to data-driven projects and grow as an analyst
 
 
 ## 🌐 Socials:
